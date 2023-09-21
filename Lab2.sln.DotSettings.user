@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=65836e1b_002D2331_002D4120_002D9485_002Da663c0d331a4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Result_ShouldBeZero" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::C03CBD0A-AFF9-403A-A0E1-9CD6DC728855::net7.0::Lab2.Test.CalculateTests.Result_ShouldBeZero&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C03CBD0A-AFF9-403A-A0E1-9CD6DC728855::net7.0::Lab2.Test.CalculateTests.Result_ShouldBeZero_ReturnFalse&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C03CBD0A-AFF9-403A-A0E1-9CD6DC728855::net7.0::Lab2.Test.CalculateTests.Sum_ShouldBeFive&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C03CBD0A-AFF9-403A-A0E1-9CD6DC728855::net7.0::Lab2.Test.CalculateTests.CalculateResult_ShouldBe_ReturnExpected&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C03CBD0A-AFF9-403A-A0E1-9CD6DC728855::net7.0::Lab2.Test.CalculateTests.Calculate_WithNoValues_ShouldThrowException&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
